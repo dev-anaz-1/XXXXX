@@ -1,5 +1,5 @@
 /**
-* A Script Redesigned by Parveen Bhadoo from GOIndex at https://github.com/ParveenBhadooOfficial/Bhadoo-Drive-Index
+* A Script Redesigned by Parveen Bhadoo from GOIndex at https://github.com/dev-anaz-1/XXXXX
 */
 const authConfig = {
 	"siteName": "Bhadoo Drive Index", // Website name
